@@ -1,2 +1,3 @@
-# Christmas-vs-New_Year
-Google Trends analysis of Christmas vs New Year
+# Christmas vs New Year
+
+Analyizng Google search trends of Christmas v/s New Year, both for worldwide and Indian regions
